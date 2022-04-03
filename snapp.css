@@ -1,0 +1,26 @@
+body {
+    direction: rtl;
+}
+
+.list-snapp {
+    background-color: #f2f5f8;
+    border-radius: 12px;
+}
+
+.banner-food {
+    border-radius: 12px;
+}
+
+.card-1-free {
+    background-color: #f2f5f8;
+    border-radius: 15px;
+}
+
+.video-bg {
+    background-color: #f2f5f8;
+    border-radius: 15px;
+}
+
+.video-snapp {
+    border-radius: 15px;
+}
